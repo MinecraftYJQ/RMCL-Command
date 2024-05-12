@@ -1,0 +1,16 @@
+D:\RMCL\RMCL_Command\RMCL_Command\bin\Debug\net6.0\RMCL_Command.exe
+D:\RMCL\RMCL_Command\RMCL_Command\bin\Debug\net6.0\RMCL_Command.deps.json
+D:\RMCL\RMCL_Command\RMCL_Command\bin\Debug\net6.0\RMCL_Command.runtimeconfig.json
+D:\RMCL\RMCL_Command\RMCL_Command\bin\Debug\net6.0\RMCL_Command.dll
+D:\RMCL\RMCL_Command\RMCL_Command\bin\Debug\net6.0\RMCL_Command.pdb
+D:\RMCL\RMCL_Command\RMCL_Command\obj\Debug\net6.0\RMCL_Command.csproj.AssemblyReference.cache
+D:\RMCL\RMCL_Command\RMCL_Command\obj\Debug\net6.0\RMCL_Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\RMCL\RMCL_Command\RMCL_Command\obj\Debug\net6.0\RMCL_Command.AssemblyInfoInputs.cache
+D:\RMCL\RMCL_Command\RMCL_Command\obj\Debug\net6.0\RMCL_Command.AssemblyInfo.cs
+D:\RMCL\RMCL_Command\RMCL_Command\obj\Debug\net6.0\RMCL_Command.csproj.CoreCompileInputs.cache
+D:\RMCL\RMCL_Command\RMCL_Command\obj\Debug\net6.0\RMCL_Command.dll
+D:\RMCL\RMCL_Command\RMCL_Command\obj\Debug\net6.0\refint\RMCL_Command.dll
+D:\RMCL\RMCL_Command\RMCL_Command\obj\Debug\net6.0\RMCL_Command.pdb
+D:\RMCL\RMCL_Command\RMCL_Command\obj\Debug\net6.0\RMCL_Command.genruntimeconfig.cache
+D:\RMCL\RMCL_Command\RMCL_Command\obj\Debug\net6.0\ref\RMCL_Command.dll
+D:\RMCL\RMCL_Command\RMCL_Command\obj\Debug\net6.0\RMCL_Command.csproj.Fody.CopyLocal.cache
